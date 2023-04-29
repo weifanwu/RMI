@@ -1,7 +1,5 @@
 public class UnitTest {
   public static void main(String... args) {
-    System.out.print("Testing... ");
-
     if (Client.add(2, 4) == 6)
         System.out.print(".");
     else
